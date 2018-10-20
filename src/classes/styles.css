@@ -1,0 +1,41 @@
+.grid-element {
+    height: 200px;
+}
+
+.sub-grid-element {
+    height: 150px;
+}
+
+
+#grid1 {
+    background: red;
+}
+
+#grid2 {
+    background: yellow;
+}
+
+#grid3 {
+    background: green;
+}
+
+#grid4 {
+    background: blue;
+}
+
+#grid5 {
+    background: black;
+}
+
+#grid11 {
+    background: violet;
+}
+#grid12 {
+    background: blueviolet;
+}
+#grid13 {
+    background: darkviolet;
+}
+#grid14 {
+    background: darkmagenta;
+}
